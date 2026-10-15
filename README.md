@@ -1,397 +1,121 @@
 # Onyekachi Ifeanyi Ejimofor
 
 <p align="center">
-  <img
-    src="https://github.com/onyekachiejimofor/onyekachiejimofor/blob/main/Github_Banner.png"
-    alt="Onyekachi Ifeanyi Ejimofor - Data Operations & AI Quality Specialist"
-    width="100%">
+  <img src="https://github.com/onyekachiejimofor/onyekachiejimofor/blob/main/Github_Banner.png" alt="Onyekachi Ifeanyi Ejimofor — Data Operations & AI Quality Specialist" width="100%">
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Data+Operations+%26+AI+Quality+Specialist;Data+Cleaning+%26+Transformation;Excel+%7C+Power+Query;AI+%2F+LLM+Evaluation;Data+Annotation;Web+Research+%26+Data+Collection"
-    alt="Typing SVG">
+  <strong>Data Operations & AI Quality Specialist</strong>
 </p>
-
----
-
-## 👋 Introduction
-
-I am **Onyekachi Ifeanyi Ejimofor**, a **Data Operations & AI Quality Specialist** focused on turning messy information and AI outputs into reliable, structured, and useful data.
-
-My work and learning journey currently focus on **data cleaning, transformation, quality assurance, AI/LLM evaluation, data annotation, and web research**.
-
-I am building practical, evidence-based projects that demonstrate how I approach data quality, accuracy, consistency, and reliable information workflows.
-
----
-
-## 📌 About Me
-
-- 🧹 Focused on **data cleaning and transformation**
-- 📊 Building practical skills with **Excel and Power Query**
-- 🤖 Developing expertise in **AI/LLM evaluation and AI output quality**
-- 🏷️ Learning and applying **data annotation and labeling practices**
-- 🔎 Interested in **web research, information verification, and structured data collection**
-- 🧠 Developing a strong foundation in **data quality and operational workflows**
-- 📈 Expanding toward **SQL, Power BI, Python, and data analysis**
-- 🛠️ I prefer practical projects that demonstrate real workflows rather than purely theoretical exercises
-
----
-
-## 🧹 Data Operations & Data Quality
-
-My current focus is building reliable workflows for handling messy and inconsistent data.
-
-Areas of focus include:
-
-- Data cleaning
-- Data validation
-- Data transformation
-- Duplicate detection
-- Missing-value handling
-- Inconsistent formatting
-- Text normalization
-- Data standardization
-- Data quality checks
-- Spreadsheet data preparation
-- Structured data workflows
-- Quality assurance
-
-### Data Workflow
-
 <p align="center">
-
-**RAW DATA → INSPECT → CLEAN → TRANSFORM → VALIDATE → ANALYZE → INSIGHT**
-
-</p>
-
-The goal is not simply to make data look cleaner, but to make it **more consistent, reliable, usable, and ready for downstream analysis**.
-
----
-
-## 📊 Excel & Power Query
-
-### Excel
-
-- Data cleaning
-- Data validation
-- Sorting and filtering
-- Find & Replace
-- Duplicate identification
-- Missing-value investigation
-- Text and number cleanup
-- Data formatting
-- Conditional formatting
-- Formula-based quality checks
-- Structured tables
-- Data preparation
-
-### Power Query
-
-- Data import
-- Data transformation
-- Column cleaning
-- Type conversion
-- Missing-value handling
-- Text transformation
-- Duplicate removal
-- Query-based data preparation
-- Repeatable cleaning workflows
-
----
-
-## 🤖 AI & LLM Quality
-
-I am developing practical skills in evaluating AI-generated outputs for **quality, accuracy, relevance, consistency, and instruction-following**.
-
-Areas of focus include:
-
-- AI response evaluation
-- LLM evaluation
-- Rubric-based assessment
-- Factual accuracy checking
-- Instruction-following evaluation
-- Response relevance
-- Quality criteria
-- Evidence-based justification
-- Error identification
-- Comparative evaluation
-- AI output quality assurance
-
-### Evaluation Approach
-
-**REVIEW → CHECK AGAINST CRITERIA → IDENTIFY ERRORS → JUSTIFY → SCORE**
-
-I aim to make evaluations **clear, evidence-based, consistent, and reproducible**.
-
----
-
-## 🏷️ Data Annotation
-
-Developing practical skills with structured annotation and labeling workflows.
-
-Areas of focus include:
-
-- Data labeling
-- Video annotation
-- Action labeling
-- Object identification
-- Annotation guidelines
-- Label consistency
-- Instruction adherence
-- Quality control
-- Dataset preparation
-- Annotation review
-
-The focus is on following defined guidelines precisely and producing **consistent, high-quality labels**.
-
----
-
-## 🔎 Web Research & Data Collection
-
-I am interested in transforming information gathered from online sources into structured and usable datasets.
-
-Areas of focus include:
-
-- Web research
-- Information verification
-- Source checking
-- Structured data collection
-- Data extraction
-- Data organization
-- Research quality control
-- Web-based data gathering
-- Data preparation
-
-My approach emphasizes **accuracy, traceability, consistency, and careful source evaluation**.
-
----
-
-## 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,html,css" alt="Tools and Technologies">
-</p>
-
-### Current Tools
-
-- Microsoft Excel
-- Power Query
-- Google Sheets
-- Git
-- GitHub
-- VS Code
-
-### Developing Skills
-
-- SQL
-- Power BI
-- Python
-- Data Analysis
-- Exploratory Data Analysis
-- Data Visualization
-
----
-
-## 📚 Currently Developing
-
-My current learning roadmap is focused on building progressively stronger data and AI quality capabilities.
-
-### Data Operations
-
-- Advanced Excel
-- Power Query
-- Data quality workflows
-- Data transformation
-- Data validation
-- Repeatable data-cleaning processes
-
-### AI Quality
-
-- AI/LLM evaluation
-- Evaluation rubrics
-- Quality assessment
-- Factuality checking
-- Comparative evaluation
-- Annotation quality assurance
-
-### Data Analysis
-
-- SQL
-- Power BI
-- Python
-- Exploratory Data Analysis
-- Data visualization
-- Business-focused analysis
-
-I approach these areas as a **continuous learning and practical-building roadmap**, rather than claiming mastery before developing the necessary evidence.
-
----
-
-## 🚀 Featured Projects
-
-> My portfolio is actively being developed. Projects will be added here as they are completed and documented.
-
-### 🧹 Data Operations & Data Quality
-
-- **Excel Data Cleaning Project**  
-  `Repository: [Coming Soon]`
-
-- **Power Query Data Transformation Project**  
-  `Repository: [Coming Soon]`
-
-- **Data Quality & Validation Project**  
-  `Repository: [Coming Soon]`
-
-### 🤖 AI & LLM Evaluation
-
-- **AI Response Evaluation Project**  
-  `Repository: [Coming Soon]`
-
-- **LLM Quality Assessment Project**  
-  `Repository: [Coming Soon]`
-
-- **AI Evaluation Rubric Project**  
-  `Repository: [Coming Soon]`
-
-### 🏷️ Data Annotation
-
-- **Video Action Annotation Project**  
-  `Repository: [Coming Soon]`
-
-- **Annotation Quality Review Project**  
-  `Repository: [Coming Soon]`
-
-### 🔎 Web Research & Data Collection
-
-- **Structured Web Research Project**  
-  `Repository: [Coming Soon]`
-
-- **Web Data Collection & Cleaning Project**  
-  `Repository: [Coming Soon]`
-
-### 📈 Data Analysis Development
-
-- **SQL Data Analysis Project**  
-  `Repository: [Coming Soon]`
-
-- **Power BI Dashboard Project**  
-  `Repository: [Coming Soon]`
-
-- **Python Data Analysis Project**  
-  `Repository: [Coming Soon]`
-
----
-
-## 🛠️ What I Build
-
-My projects are designed around practical data workflows:
-
-```text
-RAW INFORMATION
-       ↓
-   INSPECT
-       ↓
-     CLEAN
-       ↓
-   TRANSFORM
-       ↓
-   VALIDATE
-       ↓
-    ANALYZE
-       ↓
-   VISUALIZE
-       ↓
-BUSINESS / DATA INSIGHT
-```
-
-For AI-related workflows:
-
-```text
-AI OUTPUT
-    ↓
-REVIEW
-    ↓
-CHECK AGAINST CRITERIA
-    ↓
-IDENTIFY ERRORS
-    ↓
-EVALUATE QUALITY
-    ↓
-JUSTIFY DECISION
-    ↓
-FINAL ASSESSMENT
-```
-
----
-
-## 🎯 Career Development
-
-My professional development is centered around the intersection of:
-
-**Data Operations + Data Quality + AI Quality + Data Analysis**
-
-I am progressively expanding my technical toolkit through:
-
-**Excel → Power Query → SQL → Power BI → Python**
-
-while continuing to develop practical capabilities in:
-
-**AI/LLM Evaluation → Data Annotation → Web Research → Data Quality**
-
-The objective is to build a strong, practical foundation for working with both **data and AI-driven information workflows**.
-
----
-
-## 💡 My Philosophy
-
-### **Learn → Build → Validate → Improve → Share**
-
-I believe the strongest technical skills come from combining structured learning with practical work.
-
-Rather than simply learning tools, I focus on understanding **how they can be used to solve real data-quality and information problems**.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=onyekachiejimofor&show_icons=true&hide_border=true&theme=dark"
-    alt="Onyekachi's GitHub statistics">
+  Excel & Power Query · Data Quality · AI/LLM Evaluation · Data Annotation · Web Research
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyekachiejimofor&layout=compact&hide_border=true&theme=dark"
-    alt="Onyekachi's top languages">
+  <a href="https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation"><img src="https://img.shields.io/badge/Featured_Project-AI_Response_Evaluation-167D8D?style=for-the-badge&logo=github&logoColor=white" alt="Featured AI response evaluation project"></a>
+  <a href="https://www.linkedin.com/in/onyekachiejimofor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="mailto:onyekachi.ejimofor@technologist.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1100&color=00D9FF&center=true&vCenter=true&width=850&lines=Turning+messy+data+into+reliable+information;Evaluating+AI+outputs+against+real+criteria;Documenting+evidence%2C+not+just+scores" alt="Data quality and AI evaluation focus">
+</p>
 
-## 🤝 Let's Connect
-
-I am open to connecting with professionals, recruiters, organizations, and other practitioners working across **data, AI, technology, research, and digital operations**.
-
-- 💼 **LinkedIn:** `YOUR_LINKEDIN_URL`
-- 📧 **Email:** `YOUR_EMAIL`
-- 𝕏 **X / Twitter:** `YOUR_X_URL`
-- 🌐 **Website:** `YOUR_WEBSITE_URL`
+> **My focus:** Making data more consistent, AI responses more trustworthy, and quality decisions easier to verify.
 
 ---
 
-## 📌 Current Focus
+## What I Do
 
-**Data Operations & AI Quality Specialist**
+I work at the intersection of **data operations, information quality, and human evaluation of AI outputs**. My approach is practical: define the quality standard, examine the evidence, document issues, and produce a result that another reviewer can understand and check.
 
-**Data Cleaning & Transformation | Excel | Power Query | AI/LLM Evaluation | Data Annotation | Web Research**
+| Area | Problems I focus on | Typical outputs |
+| --- | --- | --- |
+| **Data cleaning & transformation** | Duplicates, inconsistent formats, missing values, poorly structured spreadsheets | Clean Excel/CSV datasets, repeatable Power Query steps, validation notes |
+| **AI/LLM response evaluation** | Plausible but incorrect answers, policy contradictions, unsupported claims, incomplete instructions | Rubric scores, evidence verdicts, issue tags, written rationales |
+| **Data annotation & quality review** | Ambiguous labels, inconsistent decisions, unclear annotation instructions | Structured labels, guideline-based reviews, QA observations |
+| **Web research & data collection** | Unverified facts, fragmented sources, inconsistent record structures | Source-traceable research tables and organized datasets |
 
-Currently building practical projects and expanding into:
-
-**SQL | Power BI | Python | Data Analysis**
+**What matters most:** accuracy, traceability, consistency, and documentation—not just polished-looking outputs.
 
 ---
+
+## Featured Case Study — AI Response Quality & Policy Compliance
+
+### [Northstar Home | Rubric-Based AI Response Evaluation](https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation)
+
+**Business question:** *An AI support answer may sound helpful, but does it actually agree with the company's written policy?*
+
+I completed a **synthetic e-commerce customer-support evaluation** in Label Studio. Each AI response was checked against a fictional policy knowledge base, then scored and justified using documented evidence.
+
+| Project scope | Completed work |
+| --- | --- |
+| Evaluation tasks | **30 / 30 annotated** |
+| Reference material | **14 fictional policy sections** |
+| Rubric dimensions | **Factual accuracy · Relevance · Completeness · Clarity** |
+| Scoring | **1–5 per criterion**, plus a separate holistic overall rating |
+| Evidence verdicts | **19 Supported · 11 Contradicted** |
+| Audit trail | Issue tags, policy references, written justifications, JSON/CSV exports |
+
+**Three examples of the quality problems examined:**
+
+- **Incorrect guarantee (RUB-005):** A response promised next-day delivery despite a policy stating that arrival is estimated, not guaranteed. **Overall: 1/5; Contradicted.**
+- **Policy-compliant guidance (RUB-018):** A response correctly explained that next-day delivery is not guaranteed. **Overall: 5/5; Supported.**
+- **Correct but incomplete guidance (RUB-016):** “Check your email” was factually acceptable but omitted important tracking follow-up steps. **Completeness: 2/5; Overall: 3/5; Supported.**
 
 <p align="center">
-  <strong>Turning messy data and AI outputs into reliable information.</strong>
+  <a href="https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation/blob/main/screenshots/02_rub005_policy_violation.png"><img src="https://raw.githubusercontent.com/onyekachiejimofor/rubric-based-ai-response-evaluation/main/screenshots/02_rub005_policy_violation.png" width="48%" alt="Label Studio RUB-005 policy violation evidence"></a>
+  <a href="https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation/blob/main/screenshots/04_rub018_policy_compliant.png"><img src="https://raw.githubusercontent.com/onyekachiejimofor/rubric-based-ai-response-evaluation/main/screenshots/04_rub018_policy_compliant.png" width="48%" alt="Label Studio RUB-018 compliant response evidence"></a>
+</p>
+
+<p align="center"><em>Same delivery policy; two different AI responses; evidence-based evaluation.</em></p>
+
+**Explore the evidence:** [Full case study](https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation) · [Completed annotations](https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation/tree/main/annotations) · [Rubric & QA guide](https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation/blob/main/docs/03_ANNOTATION_RUBRIC_and_QA_guide.md) · [Label Studio screenshots](https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation/tree/main/screenshots)
+
+*Scope note: Northstar Home, its policies, and the evaluation cases are fictional. These are one evaluator's annotations; the figures above describe this practice dataset, not deployed model performance or verified commercial impact.*
+
+---
+
+## How I Approach Quality Work
+
+| Data quality workflow | AI response evaluation workflow |
+| --- | --- |
+| **Import → Inspect → Clean → Transform → Validate → Document** | **Read task → Check source policy → Score four criteria → Tag issues → Justify → QA/export** |
+
+I prioritize **reproducible steps, explicit criteria, and defensible decisions**. Where information is missing or uncertain, I flag it instead of inventing an answer.
+
+---
+
+## Tools & Working Skills
+
+| Focus | Tools and techniques |
+| --- | --- |
+| **Spreadsheet operations** | Microsoft Excel, Excel Tables, formulas, filters, data validation, conditional formatting |
+| **Repeatable transformations** | Excel Power Query: import, clean, split/merge, append, standardize, deduplicate, validate |
+| **Collaborative data handling** | Google Sheets, CSV/JSON, structured datasets |
+| **AI evaluation & annotation** | Label Studio, scoring rubrics, evidence verification, issue categorization, evaluation QA |
+| **Research & documentation** | Web research, cross-checking, source tracking, Markdown, GitHub |
+
+I also have prior hands-on experience with **Python-based web extraction and manual QA testing**. My current portfolio development, however, is centered on **data quality, Excel/Power Query, AI evaluation, annotation, and web research**, rather than a general data analytics stack.
+
+---
+
+## Portfolio Direction
+
+Alongside my completed AI response evaluation case study, I'm developing practical portfolio work in **Excel/Power Query data cleaning**, **annotation quality control**, and **structured web research**. I publish projects with their method, sample inputs, outputs, and QA evidence when they are ready—not placeholder repositories or unsupported results.
+
+[Browse my GitHub repositories](https://github.com/onyekachiejimofor?tab=repositories)
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities and collaborations involving **AI response review, rubric-based evaluation, data annotation QA, spreadsheet data quality, and web research**.
+
+- **Email:** [onyekachi.ejimofor@technologist.com](mailto:onyekachi.ejimofor@technologist.com)
+- **LinkedIn:** [linkedin.com/in/onyekachiejimofor](https://www.linkedin.com/in/onyekachiejimofor/)
+- **GitHub:** [github.com/onyekachiejimofor](https://github.com/onyekachiejimofor)
+
+<p align="center">
+  <strong>Reliable data. Evidence-backed AI evaluation. Work that can be audited.</strong>
 </p>
