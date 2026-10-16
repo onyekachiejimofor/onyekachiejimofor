@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/onyekachiejimofor/rubric-based-ai-response-evaluation"><img src="https://img.shields.io/badge/Featured_Project-AI_Response_Evaluation-167D8D?style=for-the-badge&logo=github&logoColor=white" alt="Featured AI response evaluation project"></a>
+<a href="https://github.com/onyekachiejimofor/excel-power-query-data-cleaning-transformation"><img src="https://img.shields.io/badge/Excel_%26_Power_Query-View_Project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel and Power Query portfolio"/></a>
   <a href="https://www.linkedin.com/in/onyekachiejimofor/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
   <a href="mailto:onyekachi.ejimofor@technologist.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact"></a>
 </p>
@@ -75,6 +76,30 @@ I completed a **synthetic e-commerce customer-support evaluation** in Label Stud
 *Scope note: Northstar Home, its policies, and the evaluation cases are fictional. These are one evaluator's annotations; the figures above describe this practice dataset, not deployed model performance or verified commercial impact.*
 
 ---
+
+
+## Featured Case Study — Excel & Power Query Data Transformation
+
+### [LumaWorks Retail | Data Cleaning, Consolidation & Transformation](https://github.com/onyekachiejimofor/excel-power-query-data-cleaning-transformation)
+
+**Business question:** How can fragmented, inconsistent business records be transformed into reliable, refreshable Excel reports?
+
+I completed three Power Query exercises using customized synthetic business datasets, documenting the transformations, validation checks, and portable source connections.
+
+| Project | Completed work | Verified result |
+|---|---|---|
+| Marketing Data Cleaning | Cleaned grouped campaign data, filled missing labels, standardized fields, and calculated conversion ratios | **154 records preserved** |
+| Multi-Year Sales Consolidation | Combined annual CSV files with reusable Power Query transformations and automatic refresh | **480 sales records (2023–2026)** |
+| Monthly Coffee Sales Transformation | Unpivoted monthly sales and created a quarterly PivotTable | **240 records · 59,773 units sold** |
+
+**Skills demonstrated:** Excel · Power Query · Data Cleaning · Data Validation · ETL · Data Consolidation · Refresh Automation · Unpivoting · PivotTables
+
+**Explore the evidence:** [Full case study, Excel workbooks, source data and screenshots](https://github.com/onyekachiejimofor/excel-power-query-data-cleaning-transformation)
+
+*Scope note: LumaWorks Retail is fictional. The project uses customized synthetic training data and demonstrates educational portfolio work, not verified commercial impact.*
+
+---
+  
 
 ## How I Approach Quality Work
 
